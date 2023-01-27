@@ -12,5 +12,7 @@ public class Student {
 
         }
 
+        System.out.println("muaz atmaca");
+
     }
 }
