@@ -7,5 +7,10 @@ public class Student {
 
         System.out.println("merhaba 2");
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println("merhaba");
+
+        }
+
     }
 }
